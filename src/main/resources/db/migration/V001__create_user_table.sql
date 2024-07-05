@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS users (id int8 PRIMARY KEY, name varchar)
